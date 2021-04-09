@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['agua com gas', 'agua sem gas', 'cocacola lata', 'heineken', 'icetea pessego', 'monster']
