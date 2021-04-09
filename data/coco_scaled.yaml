@@ -1,0 +1,6 @@
+train: ./data/roda_scaled_yolo/train/images
+val: ./data/roda_scaled_yolo/valid/images
+test: ./data/roda_scaled_yolo/test/images
+
+nc: 6
+names: ['agua com gas', 'agua sem gas', 'cocacola lata', 'heineken', 'icetea pessego', 'monster']
